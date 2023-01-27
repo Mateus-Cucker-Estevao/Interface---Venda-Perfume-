@@ -1,0 +1,99 @@
+body {
+    background-color: hsl(30, 38%, 92%)
+}
+
+main {
+    display: flex;
+    width: auto;
+    height: auto;
+    position: absolute;
+    left: 250px;
+    top: 50px;
+    margin: 0 0 50px;
+}
+
+.img {
+    margin: 0;
+}
+
+.img img {
+    height: 700px;
+    width: 500px 
+}
+
+.txt {
+    background-color: #FFFFFF;
+    width: 400px;
+    height: 600px;
+    margin: 0;
+    padding: 50px;
+}
+
+.txt h1 {
+    font-size: 37px;
+    font-weight: bold;
+    margin: 0 0 25px;
+    width: 200px;
+}
+
+#nav {
+    letter-spacing: 5px;
+}
+
+.txt p {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 0 25px;
+    line-height: 50px;
+    
+}
+
+#txt1 {
+    font-size: 14px;
+    width: 210px;
+    line-height: 30px;
+}
+
+#preço {
+    font-size: 45px;
+    margin: 0 0 70px;
+}
+
+
+.preço {
+    display: inline-block;
+}
+
+a {
+    display: block;
+}
+
+#etq {
+    position: relative;
+    top: -19px;
+    left: 14px;
+}
+
+a {
+    font-size: 20px;
+    display: flex;
+    width: auto;
+    height: 70px;
+    text-decoration: none;
+    background-color: darkgreen;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+    
+}
+
+a img {
+    width: 18px;
+    margin-right: 15px;
+}
+
+#letra {
+    font-size: 25px;
+}
+
